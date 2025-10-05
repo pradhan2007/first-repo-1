@@ -1,2 +1,3 @@
 # first-repo-1
-my first repo in git
+My first repo in git
+Author : Pradhan Vishveshwaraiah 
